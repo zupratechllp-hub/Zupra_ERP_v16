@@ -19,3 +19,4 @@ apps/*/**/public/build/
 .vscode/
 .idea/
 .DS_Store
+apps/zupra_prod_v16/
